@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ragna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ragna\\.nuget\\packages"
+    ]
+  }
+}
